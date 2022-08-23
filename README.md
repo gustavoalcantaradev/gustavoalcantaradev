@@ -12,7 +12,7 @@
 
 ##
 
-<div align="center">
+<div align="center" paddin="100px">
   <a href="https://github.com/gustavoalcantaradev">
   <img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api?username=gustavoalcantaradev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoalcantaradev&layout=compact&langs_count=7&theme=dark"/>
