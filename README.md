@@ -1,16 +1,6 @@
-## Seja bem vindo!
+## Seja bem vindo! 😎
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-##
+Me chamo Gustavo Alcantara, Recentemente formado em Gestão e atualmente focado no Front-End 🖥️
 
 <div align="center">
   <a href="https://github.com/gustavoalcantaradev">
@@ -23,5 +13,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
+
+##
 
 ![Snake animation](https://github.com/gustavoalcantaradev/gustavoalcantaradev/blob/output/github-contribution-grid-snake.svg)
