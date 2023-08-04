@@ -13,7 +13,3 @@ Me chamo Gustavo Alcantara, Formado em Gestão da Tecnologia da Informação e e
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
-
-##
-
-![Snake animation](https://github.com/gustavoalcantaradev/gustavoalcantaradev/blob/output/github-contribution-grid-snake.svg)
