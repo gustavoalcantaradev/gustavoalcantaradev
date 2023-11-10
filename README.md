@@ -1,6 +1,6 @@
 ## Seja bem vindo! 😎
 
-Me chamo Gustavo Alcantara, Formado em Gestão da Tecnologia da Informação e estudante do desenvolvimento Front-End 🖥️
+Me chamo Gustavo Alcantara, Formado em Gestão da Tecnologia da Informação e estudante de desenvolvimento Full Stack - Java 🖥️
 
 <div align="center">
   <a href="https://github.com/gustavoalcantaradev">
