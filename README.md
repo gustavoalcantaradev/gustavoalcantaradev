@@ -1,7 +1,5 @@
 ## Seja bem vindo! 😎
 
-![backGit](https://github.com/gustavoalcantaradev/gustavoalcantaradev/assets/107977597/b0d37a73-a930-4c30-891c-054b92d29e51)
-
 
 
 <div align="center">
