@@ -1,7 +1,7 @@
 ## Seja bem vindo! 😎
 
 
-![backGit](https://github.com/gustavoalcantaradev/gustavoalcantaradev/assets/107977597/b699a4e3-6975-494a-9964-1c196f7c191c)
+![gifParaGithub](https://github.com/gustavoalcantaradev/gustavoalcantaradev/assets/107977597/48c71a5d-137e-4518-9461-5a503bcf8f12)
 
 
 Me chamo Gustavo Alcantara, Formado em Gestão da Tecnologia da Informação e estudante de desenvolvimento Full Stack - Java 🖥️
