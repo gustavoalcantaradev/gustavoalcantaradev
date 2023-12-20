@@ -3,7 +3,6 @@
 ![backGit](https://github.com/gustavoalcantaradev/gustavoalcantaradev/assets/107977597/b0d37a73-a930-4c30-891c-054b92d29e51)
 
 
-Me chamo Gustavo Alcantara, Formado em Gestão da Tecnologia da Informação e estudante de desenvolvimento Full Stack - Java 🖥️
 
 <div align="center">
   <a href="https://github.com/gustavoalcantaradev">
